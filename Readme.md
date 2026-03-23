@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Vedansh Rathi 👋</h1>
 
 <p align="center">
-  <b>B.Tech CS @ MIT-WPU Pune</b> &nbsp;|&nbsp; Embedded Systems · Deep Learning &nbsp;|&nbsp; Open Source Contributor
+  <b>B.Tech CSE(AIDS) @ MIT-WPU Pune</b> &nbsp;|&nbsp; Embedded Systems · Deep Learning &nbsp;|&nbsp; Open Source Contributor
 </p>
 
 <p align="center">

@@ -76,12 +76,12 @@ I'm a Computer Science undergrad at **MIT-WPU, Pune**, passionate about building
 
 ---
 
-## 🤝 Open Source
+##  Open Source
 
 I'm an active contributor to **[metatensor/metatrain](https://github.com/lab-cosmo/metatrain)** — a machine learning framework for atomistic simulations. Always open to collaborating on impactful AI/ML research and open-source projects.
 
 ---
 
 <p align="center">
-  <i>💡 "Building intelligent systems, one model at a time."</i>
+  <i> "Building intelligent systems, one model at a time."</i>
 </p>

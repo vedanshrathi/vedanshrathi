@@ -15,18 +15,18 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a Computer Science undergrad at **MIT-WPU, Pune**, passionate about building intelligent systems at the intersection of **Embedded Systems** and **Deep Learning**. I enjoy turning research ideas into working prototypes and contributing to open-source projects.
 
-- 🔭 Currently contributing to **[metatensor/metatrain](https://github.com/lab-cosmo/metatrain)**
-- 🌱 Exploring **AI/ML**, **Computer Vision**, and **Edge AI**
-- 🎯 Actively seeking **AI/ML Research Internships**
-- 📍 Based in **Pune, India**
+-  Currently contributing to **[metatensor/metatrain](https://github.com/lab-cosmo/metatrain)**
+-  Exploring **AI/ML**, **Computer Vision**, and **Edge AI**
+-  Actively seeking **AI/ML Research Internships**
+-  Based in **Pune, India**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -63,16 +63,16 @@ I'm a Computer Science undergrad at **MIT-WPU, Pune**, passionate about building
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🎥 CCTV Examination Anti-Cheat System](https://github.com/vedanshrathi/cctv-examination-anti-cheat-system) | AI-powered proctoring system using computer vision to detect cheating in exams | Python, CV |
-| [🔥 Finger Fire](https://github.com/vedanshrathi/Finger-Fire) | Hand gesture-based interactive fire effect using real-time tracking | Python, OpenCV |
-| [🖼️ Image Captioning Model](https://github.com/vedanshrathi/image-captioning-model) | Deep learning model that generates natural language captions for images | Python, DL |
-| [🧠 SE-Attention Half-UNet](https://github.com/vedanshrathi/SE-Attention-Half-UNet) | Lightweight segmentation architecture with Squeeze-and-Excitation attention | Python, PyTorch |
-| [💻 Digital Wellbeing for Laptop](https://github.com/vedanshrathi/Digital-Wellbeing-for-laptop) | Screen-time tracker and usage analytics for desktops | HTML |
-| [📊 DSA Algorithm](https://github.com/vedanshrathi/DSA-Algorithm) | Collection of Data Structures and Algorithms implementations | C++ |
+| [ CCTV Examination Anti-Cheat System](https://github.com/vedanshrathi/cctv-examination-anti-cheat-system) | AI-powered proctoring system using computer vision to detect cheating in exams | Python, CV |
+| [ Finger Fire](https://github.com/vedanshrathi/Finger-Fire) | Hand gesture-based interactive fire effect using real-time tracking | Python, OpenCV |
+| [ Image Captioning Model](https://github.com/vedanshrathi/image-captioning-model) | Deep learning model that generates natural language captions for images | Python, DL |
+| [ SE-Attention Half-UNet](https://github.com/vedanshrathi/SE-Attention-Half-UNet) | Lightweight segmentation architecture with Squeeze-and-Excitation attention | Python, PyTorch |
+| [ Digital Wellbeing for Laptop](https://github.com/vedanshrathi/Digital-Wellbeing-for-laptop) | Screen-time tracker and usage analytics for desktops | HTML |
+| [ DSA Algorithm](https://github.com/vedanshrathi/DSA-Algorithm) | Collection of Data Structures and Algorithms implementations | C++ |
 
 ---
 

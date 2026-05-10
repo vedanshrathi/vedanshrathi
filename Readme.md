@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vedansh Rathi 👋</h1>
+<h1 align="center">Hi, I'm Vedansh Rathi </h1>
 
 <p align="center">
   <b>B.Tech Computer Science · MIT-WPU, Pune</b><br/>

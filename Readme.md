@@ -18,7 +18,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 I am a final-year B.Tech Computer Science student at **MIT World Peace University, Pune**, with a strong focus on applied AI and machine learning. My work spans **computer vision**, **natural language processing**, and **reinforcement learning**, with hands-on experience building end-to-end deep learning systems and full-stack AI applications.
 
